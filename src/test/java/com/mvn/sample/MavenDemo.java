@@ -8,7 +8,7 @@ public class MavenDemo {
 	
 	public void demo() {
 		System.out.println(name);
-			
+		System.out.println("p2 changes");	
 	}
 	
 }
